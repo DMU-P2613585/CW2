@@ -1,0 +1,44 @@
+
+body{
+  background-image:url("../img/Disneybg.jpg");
+}
+
+.a{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Amatic SC', cursive;
+}
+body{
+  background-image:url("../img/Disneybg.jpg");
+}
+
+video{
+  float: center;
+  display: block;
+  margin: auto;
+  width: 10cm;
+}
+.b{
+  float:center;
+}
+.c{
+  float: left;
+  font-size: 20px
+  font-family: 'Amatic SC', cursive;
+}
+.d{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Amatic SC', cursive;
+}
+.e{
+  text-align: center;
+}
+.f{
+  background-color: #1ecbe1
+}
+.h{
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Amatic SC', cursive;
+}
